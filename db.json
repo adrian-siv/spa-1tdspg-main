@@ -8,13 +8,6 @@
       "img": "https://picsum.photos/200/300"
     },
     {
-      "id": 2,
-      "nome": "Mouse",
-      "desc": "Mouse Gamer",
-      "preco": 50,
-      "img": "https://picsum.photos/200/300"
-    },
-    {
       "id": 3,
       "nome": "Monitor",
       "desc": "Monitor Gamer",
@@ -50,13 +43,6 @@
       "img": "https://picsum.photos/200/300"
     },
     {
-      "id": 8,
-      "nome": "Processador",
-      "desc": "Processador Gamer",
-      "preco": 1000,
-      "img": "https://picsum.photos/200/300"
-    },
-    {
       "id": 9,
       "nome": "Placa de Vídeo",
       "desc": "Placa de Vídeo Gamer",
@@ -65,59 +51,31 @@
     },
     {
       "id": 10,
-      "nome": "Placa Mãe",
+      " nome": "Placa Mãe",
       "desc": "Placa Mãe Gamer",
       "preco": 500,
       "img": "https://picsum.photos/200/300"
     },
     {
       "id": 11,
-      "nome": "Memória RAM",
+      " nome": "Memória RAM",
       "desc": "Memória RAM Gamer",
       "preco": 300,
       "img": "https://picsum.photos/200/300"
     },
     {
       "id": 12,
-      "nome": "Fonte",
+      " nome": "Fonte",
       "desc": "Fonte Gamer",
       "preco": 200,
       "img": "https://picsum.photos/200/300"
     },
     {
       "id": 13,
-      "nome": "SSD",
+      " nome": "SSD",
       "desc": "SSD Gamer",
       "preco": 200,
       "img": "https://picsum.photos/200/300"
-    },
-    {
-      "nome": "Smartphone",
-      "preco": "2500",
-      "desc": "Tela plana - Branco",
-      "img": "https://img.myloview.com.br/quadros/branco-smartphone-com-tela-em-branco-deitado-sobre-uma-superficie-plana-400-83995241.jpg",
-      "id": 14
-    },
-    {
-      "nome": "",
-      "preco": "",
-      "desc": "",
-      "img": "",
-      "id": 15
-    },
-    {
-      "nome": "",
-      "preco": "",
-      "desc": "",
-      "img": "",
-      "id": 16
-    },
-    {
-      "nome": "",
-      "preco": "",
-      "desc": "",
-      "img": "",
-      "id": 17
     }
   ]
 }
