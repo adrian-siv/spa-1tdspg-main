@@ -1,0 +1,29 @@
+.cabecalho {
+    background-color: #888;
+    color: #fff;
+    width: 20%;
+    margin: 1% 0 0 0;
+    font-size: 1.5rem;
+
+    ul {
+        list-style: none;
+
+        li a {
+            display: block;
+            text-decoration: none;
+            padding: 8px 16px;
+            color: #fff;
+            transition: background-color ease-out 200ms, color ease-out 200ms;
+
+            &:hover {
+                background-color: #79f;
+                color: #000;
+            }
+        }
+    }
+
+    .active {
+        background-color: #a52a2a;
+        color: #fff;
+    }
+}
